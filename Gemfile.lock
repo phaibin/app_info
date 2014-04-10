@@ -1,0 +1,19 @@
+GIT
+  remote: git://github.com/phaibin/Ipa-Reader.git
+  revision: 50d6949d252cd91be1e799c79eb1b3686d4624df
+  specs:
+    ipa_reader (0.7.1)
+      CFPropertyList (= 2.1.1)
+      zip (= 2.0.2)
+
+GEM
+  remote: http://ruby.taobao.org/
+  specs:
+    CFPropertyList (2.1.1)
+    zip (2.0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ipa_reader!
